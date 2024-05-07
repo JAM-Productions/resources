@@ -13,6 +13,12 @@ A list of useful resources that we use in JAM-Productions
 
 - [Squoosh](http://squoosh.app)
 
+## Icons
+
+- [Tabler icons](https://tabler-icons.io/)
+- [Flowbite icons](https://flowbite.com/icons/)
+- [SVGL icons](https://svgl.vercel.app/)
+
 # Learning 
 
 ## Git
