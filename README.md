@@ -4,10 +4,8 @@ A list of useful resources that we use in JAM-Productions
 
 ## Tailwind
 
-- Components
-  - https://tailblocks.cc/
-- Animations
-  - https://www.tailwindcss-animated.com/
+- [Components](https://tailblocks.cc/)
+- [Animations](https://www.tailwindcss-animated.com/)
 
 ## Optimize images
 
@@ -29,3 +27,7 @@ A list of useful resources that we use in JAM-Productions
   - https://mtlynch.io/human-code-reviews-1/
   - https://mtlynch.io/human-code-reviews-2/
 
+## Astro 
+
+- [Basics](https://www.youtube.com/watch?v=RB5tR_nqUEw)
+- [Documentation](https://docs.astro.build/en/basics/project-structure/)
