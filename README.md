@@ -31,3 +31,8 @@ A list of useful resources that we use in JAM-Productions
 
 - [Basics](https://www.youtube.com/watch?v=RB5tR_nqUEw)
 - [Documentation](https://docs.astro.build/en/basics/project-structure/)
+
+## NextJS
+
+- [React Foundations](https://nextjs.org/learn/react-foundations)
+- [NextJS](https://nextjs.org/learn/dashboard-app)
