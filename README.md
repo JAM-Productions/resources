@@ -32,6 +32,8 @@ A list of useful resources that we use in JAM-Productions.
 
 ### Recommended YouTube channels
 
+We recommend you to have another account for this more technical content on social networks, it is important to disconnect in your free time and isolate every part of your life.
+
 - General:
   - For news: [Fireship](https://www.youtube.com/@Fireship)
   - Short videos of new interesting technologies: [Beyond Fireship](https://www.youtube.com/@beyondfireship)
