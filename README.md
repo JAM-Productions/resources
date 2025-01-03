@@ -4,6 +4,15 @@ A list of useful resources that we use in JAM-Productions.
 
 ## Learning 
 
+### Basic web development
+
+- Frontend:
+  - [HTML](https://www.youtube.com/watch?v=3nYLTiY5skU&ab_channel=midulive)
+  - [CSS](https://www.youtube.com/watch?v=TlJbu0BMLaY&ab_channel=midulive)
+  - [JavaScript](https://www.youtube.com/watch?v=Z34BF9PCfYg&t=106s&ab_channel=midulive)
+- Backend:
+  - [NodeJS](https://youtube.com/playlist?list=PLUofhDIg_38qm2oPOV-IRTTEKyrVBBaU7&si=1vHpmuhhNf7gGs9M)
+
 ### Git
 
 - Basics: [book](https://git-scm.com/book/en/v2) or [video](https://www.youtube.com/watch?v=niPExbK8lSw&ab_channel=midulive)
