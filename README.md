@@ -41,6 +41,10 @@ A comprehensive list of resources curated by JAM-Productions for developers to e
 - [React Foundations](https://nextjs.org/learn/react-foundations)
 - [NextJS Dashboard App](https://nextjs.org/learn/dashboard-app)
 
+#### SwiftUI
+
+- [Stanford Course](http://cs193p.sites.stanford.edu/2023)
+
 ### Recommended YouTube Channels
 
 > *Consider creating a separate account for technical content to maintain a healthy work-life balance.*
